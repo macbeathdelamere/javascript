@@ -1,0 +1,14 @@
+body{
+	background: aquamarine;
+}
+
+#container{
+	
+	text-align: center;
+	border: 3px solid grey;
+	border-radius: 20px;
+	width: 40%;
+	margin: auto;
+	padding: 10px;
+
+}
